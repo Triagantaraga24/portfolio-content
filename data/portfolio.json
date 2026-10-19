@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:39:03.323Z",
+  "updatedAt": "2026-10-19T15:39:17.439Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -140,6 +140,15 @@
       "id": "a5ae591b-097c-44ab-b9cd-75b937355b62",
       "createdAt": "2026-10-19T15:39:03.323Z",
       "updatedAt": "2026-10-19T15:39:03.323Z"
+    },
+    {
+      "name": "MariaDB",
+      "category": "Database",
+      "proficiency": "Expert",
+      "sortOrder": 2,
+      "id": "62e1e29a-cd5b-4aa8-9efe-892a14e4ae56",
+      "createdAt": "2026-10-19T15:39:17.439Z",
+      "updatedAt": "2026-10-19T15:39:17.439Z"
     }
   ],
   "experiences": [
