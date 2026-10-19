@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:07:02.520Z",
+  "updatedAt": "2026-10-19T15:10:05.111Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -205,7 +205,19 @@
       "updatedAt": "2026-10-19T15:07:02.520Z"
     }
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "title": "Student Entrepreneurship Development Program (P2MW) 2023 Initial Phase, Digital Business Category",
+      "issuer": "Direktorat Pembelajaran dan Kemahasiswaan (Belmawa), Direktorat Jenderal Pendidikan Tinggi, Riset, dan Teknologi (Ditjen Diktiristek) di bawah naungan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek).",
+      "date": "2023-12",
+      "description": "Recipient of the 2023 Student Entrepreneurship Development Program (P2MW) funding under the Initial Stage, Digital Business Category, for the venture “Acaverse SIA Mobile.”",
+      "credentialUrl": "",
+      "imageUrl": "",
+      "id": "48d4a00a-d785-4727-ac4b-3aa66c47dec0",
+      "createdAt": "2026-10-19T15:10:05.111Z",
+      "updatedAt": "2026-10-19T15:10:05.111Z"
+    }
+  ],
   "projects": [],
   "socialLinks": [],
   "siteSettings": {
