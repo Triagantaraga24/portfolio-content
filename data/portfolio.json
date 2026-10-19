@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:50:31.525Z",
+  "updatedAt": "2026-10-19T15:51:26.758Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -149,6 +149,15 @@
       "id": "62e1e29a-cd5b-4aa8-9efe-892a14e4ae56",
       "createdAt": "2026-10-19T15:39:17.439Z",
       "updatedAt": "2026-10-19T15:39:17.439Z"
+    },
+    {
+      "name": "Visual Studio Code",
+      "category": "Tools",
+      "proficiency": "Expert",
+      "sortOrder": 5,
+      "id": "cafd928b-2b84-4655-bd64-f5b4e8790bad",
+      "createdAt": "2026-10-19T15:51:26.758Z",
+      "updatedAt": "2026-10-19T15:51:26.758Z"
     }
   ],
   "experiences": [
