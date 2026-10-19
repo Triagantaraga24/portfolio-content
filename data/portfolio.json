@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:39:35.023Z",
+  "updatedAt": "2026-10-19T15:39:39.208Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -91,10 +91,10 @@
       "name": "Microsoft PowerPoint",
       "category": "Microsoft Office",
       "proficiency": "Advanced",
-      "sortOrder": 6,
+      "sortOrder": 3,
       "id": "6cfa101c-169b-4704-9b77-619fedc55547",
       "createdAt": "2026-10-19T15:30:33.989Z",
-      "updatedAt": "2026-10-19T15:30:33.989Z"
+      "updatedAt": "2026-10-19T15:39:39.208Z"
     },
     {
       "name": "C++",
