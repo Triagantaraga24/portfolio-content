@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:41:16.061Z",
+  "updatedAt": "2026-10-19T14:42:26.487Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -91,6 +91,18 @@
       "id": "d9b4419b-9d78-4431-8658-f3ad26da1257",
       "createdAt": "2026-10-19T14:41:16.061Z",
       "updatedAt": "2026-10-19T14:41:16.061Z"
+    },
+    {
+      "organization": "Tanjung Duren Selatan Subdistrict",
+      "position": "Web Developer Internship",
+      "description": "Develop an intuitive, reliable website to streamline population administration, integrate data management, and deliver efficient, transparent public services.",
+      "startDate": "2023-07",
+      "endDate": "2024-02",
+      "isCurrent": false,
+      "sortOrder": 1,
+      "id": "2587a3e2-dbf5-464d-bc6b-96584d075e32",
+      "createdAt": "2026-10-19T14:42:26.487Z",
+      "updatedAt": "2026-10-19T14:42:26.487Z"
     }
   ],
   "education": [],
