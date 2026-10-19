@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:38:26.027Z",
+  "updatedAt": "2026-10-19T15:38:32.580Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -73,10 +73,10 @@
       "name": "Prisma",
       "category": "ORM",
       "proficiency": "Intermediate",
-      "sortOrder": 3,
+      "sortOrder": 1,
       "id": "21f1ba62-d4cf-40cf-a26e-abf13c959539",
       "createdAt": "2026-10-19T14:37:59.907Z",
-      "updatedAt": "2026-10-19T14:37:59.907Z"
+      "updatedAt": "2026-10-19T15:38:32.580Z"
     },
     {
       "name": "Microsoft Excel",
