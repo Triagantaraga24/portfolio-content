@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:01:23.907Z",
+  "updatedAt": "2026-10-19T15:01:31.002Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -155,7 +155,7 @@
       "updatedAt": "2026-10-19T15:01:23.907Z"
     },
     {
-      "institution": "SMPN 206 JAKARTA",
+      "institution": "SMPN 206 Jakarta",
       "degree": "Junior High School",
       "field": "General",
       "startYear": "2017",
@@ -164,7 +164,7 @@
       "sortOrder": 2,
       "id": "5fd2b090-a347-44c9-b487-49f3b4a8eec0",
       "createdAt": "2026-10-19T15:00:35.395Z",
-      "updatedAt": "2026-10-19T15:00:35.395Z"
+      "updatedAt": "2026-10-19T15:01:31.002Z"
     }
   ],
   "organizations": [],
