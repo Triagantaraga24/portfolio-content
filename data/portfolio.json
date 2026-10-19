@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:30:01.022Z",
+  "updatedAt": "2026-10-19T15:30:16.030Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -77,6 +77,15 @@
       "id": "21f1ba62-d4cf-40cf-a26e-abf13c959539",
       "createdAt": "2026-10-19T14:37:59.907Z",
       "updatedAt": "2026-10-19T14:37:59.907Z"
+    },
+    {
+      "name": "Microsoft Excel",
+      "category": "Microsoft Office",
+      "proficiency": "Advanced",
+      "sortOrder": 6,
+      "id": "01920b92-d641-4cf1-8ba5-977c9f40c5b6",
+      "createdAt": "2026-10-19T15:30:16.030Z",
+      "updatedAt": "2026-10-19T15:30:16.030Z"
     }
   ],
   "experiences": [
