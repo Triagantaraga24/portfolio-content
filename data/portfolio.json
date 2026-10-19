@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:51:55.027Z",
+  "updatedAt": "2026-10-19T15:52:16.815Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -176,6 +176,15 @@
       "id": "476a6fa2-15f8-4ddc-bd43-74b4479905aa",
       "createdAt": "2026-10-19T15:51:55.027Z",
       "updatedAt": "2026-10-19T15:51:55.027Z"
+    },
+    {
+      "name": "Github",
+      "category": "Tools",
+      "proficiency": "Expert",
+      "sortOrder": 5,
+      "id": "8a0a31e4-c78a-4aaf-a857-8c61f200536c",
+      "createdAt": "2026-10-19T15:52:16.815Z",
+      "updatedAt": "2026-10-19T15:52:16.815Z"
     }
   ],
   "experiences": [
