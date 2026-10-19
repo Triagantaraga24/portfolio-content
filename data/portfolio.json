@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:17:05.078Z",
+  "updatedAt": "2026-10-19T15:17:12.836Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -243,12 +243,12 @@
   "projects": [],
   "socialLinks": [
     {
-      "platform": "Triagantaraga24",
+      "platform": "Github",
       "label": "Github",
       "url": "https://github.com/Triagantaraga24",
       "id": "07a20f53-eaf4-44b8-804b-c44c48944df1",
       "createdAt": "2026-10-19T15:14:48.416Z",
-      "updatedAt": "2026-10-19T15:14:48.416Z"
+      "updatedAt": "2026-10-19T15:17:12.836Z"
     },
     {
       "platform": "Linkedin",
