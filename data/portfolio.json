@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:36:29.000Z",
+  "updatedAt": "2026-10-19T15:36:48.325Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -113,6 +113,15 @@
       "id": "3aeac384-ed7f-48c9-b59f-cd864ac51c83",
       "createdAt": "2026-10-19T15:36:29.000Z",
       "updatedAt": "2026-10-19T15:36:29.000Z"
+    },
+    {
+      "name": "Rust",
+      "category": "Programming",
+      "proficiency": "Beginner",
+      "sortOrder": 9,
+      "id": "609c9713-34e8-4f85-9026-9d90a169b1d6",
+      "createdAt": "2026-10-19T15:36:48.325Z",
+      "updatedAt": "2026-10-19T15:36:48.325Z"
     }
   ],
   "experiences": [
