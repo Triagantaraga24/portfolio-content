@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:33:57.118Z",
+  "updatedAt": "2026-10-19T14:34:17.561Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -23,6 +23,15 @@
       "id": "3c8f8af0-32c5-49d8-921b-ebdbb646d9a0",
       "createdAt": "2026-10-19T14:33:57.118Z",
       "updatedAt": "2026-10-19T14:33:57.118Z"
+    },
+    {
+      "name": "NodeJS",
+      "category": "Programming",
+      "proficiency": "Expert",
+      "sortOrder": 1,
+      "id": "3fabfd31-88d5-49ce-83ab-7a791c2c8eb1",
+      "createdAt": "2026-10-19T14:34:17.561Z",
+      "updatedAt": "2026-10-19T14:34:17.561Z"
     }
   ],
   "experiences": [],
