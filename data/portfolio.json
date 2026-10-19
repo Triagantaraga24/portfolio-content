@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:51:36.234Z",
+  "updatedAt": "2026-10-19T14:52:25.729Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -123,10 +123,10 @@
       "startDate": "2026-07",
       "endDate": "",
       "isCurrent": true,
-      "sortOrder": 3,
+      "sortOrder": 0,
       "id": "ccd8f5ff-13e3-4a19-97ec-23540493f2eb",
       "createdAt": "2026-10-19T14:51:36.234Z",
-      "updatedAt": "2026-10-19T14:51:36.234Z"
+      "updatedAt": "2026-10-19T14:52:25.729Z"
     }
   ],
   "education": [],
