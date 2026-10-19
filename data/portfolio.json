@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:05:02.230Z",
+  "updatedAt": "2026-10-19T15:07:02.520Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -191,6 +191,18 @@
       "id": "ebfd9f88-255d-4730-b82d-ce18b583a81e",
       "createdAt": "2026-10-19T15:05:02.230Z",
       "updatedAt": "2026-10-19T15:05:02.230Z"
+    },
+    {
+      "name": "LDF Al-Khawarizmi Mercu Buana University",
+      "position": "Human Resource Management Division (HRD)",
+      "description": "Oversee member recruitment, leadership development, member well-being, performance evaluation, organizational management, and internal-external collaboration.",
+      "startDate": "2022",
+      "endDate": "2023",
+      "isCurrent": false,
+      "sortOrder": 1,
+      "id": "d482e6c8-824c-4348-89dc-282877de2713",
+      "createdAt": "2026-10-19T15:07:02.520Z",
+      "updatedAt": "2026-10-19T15:07:02.520Z"
     }
   ],
   "achievements": [],
