@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:38:44.233Z",
+  "updatedAt": "2026-10-19T15:39:03.323Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -131,6 +131,15 @@
       "id": "daef5268-1ab9-4c00-b5d7-902f9b2c23d4",
       "createdAt": "2026-10-19T15:37:09.353Z",
       "updatedAt": "2026-10-19T15:37:09.353Z"
+    },
+    {
+      "name": "MySQL",
+      "category": "Database",
+      "proficiency": "Expert",
+      "sortOrder": 2,
+      "id": "a5ae591b-097c-44ab-b9cd-75b937355b62",
+      "createdAt": "2026-10-19T15:39:03.323Z",
+      "updatedAt": "2026-10-19T15:39:03.323Z"
     }
   ],
   "experiences": [
