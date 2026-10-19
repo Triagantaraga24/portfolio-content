@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:39:17.439Z",
+  "updatedAt": "2026-10-19T15:39:30.653Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -55,10 +55,10 @@
       "name": "Microsoft Word",
       "category": "Microsoft Office",
       "proficiency": "Advanced",
-      "sortOrder": 6,
+      "sortOrder": 3,
       "id": "bb4888e9-cd8e-419c-8777-3ec76cd00f3d",
       "createdAt": "2026-10-19T14:36:02.523Z",
-      "updatedAt": "2026-10-19T15:30:01.022Z"
+      "updatedAt": "2026-10-19T15:39:30.653Z"
     },
     {
       "name": "ExpressJS",
