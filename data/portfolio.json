@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:32:53.589Z",
+  "updatedAt": "2026-10-19T14:33:57.118Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -14,7 +14,17 @@
     "createdAt": "2026-10-19T08:34:48.420Z",
     "updatedAt": "2026-10-19T14:32:53.589Z"
   },
-  "skills": [],
+  "skills": [
+    {
+      "name": "NextJS",
+      "category": "Programming",
+      "proficiency": "Intermediate",
+      "sortOrder": 0,
+      "id": "3c8f8af0-32c5-49d8-921b-ebdbb646d9a0",
+      "createdAt": "2026-10-19T14:33:57.118Z",
+      "updatedAt": "2026-10-19T14:33:57.118Z"
+    }
+  ],
   "experiences": [],
   "education": [],
   "organizations": [],
