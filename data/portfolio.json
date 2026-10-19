@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:36:32.741Z",
+  "updatedAt": "2026-10-19T14:36:59.970Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -59,6 +59,15 @@
       "id": "bb4888e9-cd8e-419c-8777-3ec76cd00f3d",
       "createdAt": "2026-10-19T14:36:02.523Z",
       "updatedAt": "2026-10-19T14:36:32.741Z"
+    },
+    {
+      "name": "ExpressJS",
+      "category": "Programming",
+      "proficiency": "Intermediate",
+      "sortOrder": 3,
+      "id": "b8634a10-7e05-47b5-8e4a-09708e5694a0",
+      "createdAt": "2026-10-19T14:36:59.970Z",
+      "updatedAt": "2026-10-19T14:36:59.970Z"
     }
   ],
   "experiences": [],
