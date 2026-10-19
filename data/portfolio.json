@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:35:13.304Z",
+  "updatedAt": "2026-10-19T14:35:36.255Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -41,6 +41,15 @@
       "id": "c694a8c6-0b31-449d-bc48-36a9dab094bc",
       "createdAt": "2026-10-19T14:35:13.304Z",
       "updatedAt": "2026-10-19T14:35:13.304Z"
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database",
+      "proficiency": "Advanced",
+      "sortOrder": 3,
+      "id": "ce35b218-41d6-432f-afe9-635b5b05e4f3",
+      "createdAt": "2026-10-19T14:35:36.255Z",
+      "updatedAt": "2026-10-19T14:35:36.255Z"
     }
   ],
   "experiences": [],
