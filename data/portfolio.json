@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:01:00.551Z",
+  "updatedAt": "2026-10-19T15:01:15.767Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -131,7 +131,7 @@
   ],
   "education": [
     {
-      "institution": "MERCU BUANA UNIVERSITY",
+      "institution": "Mercu Buana University",
       "degree": "Higher Education Institutions",
       "field": "Informathics Engineering",
       "startYear": "2021",
@@ -140,7 +140,7 @@
       "sortOrder": 0,
       "id": "80132626-78a4-470f-b94c-64eaf51fb6b1",
       "createdAt": "2026-10-19T14:57:28.768Z",
-      "updatedAt": "2026-10-19T15:01:00.551Z"
+      "updatedAt": "2026-10-19T15:01:15.767Z"
     },
     {
       "institution": "SMAN 85 JAKARTA",
