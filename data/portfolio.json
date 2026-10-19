@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:39:48.163Z",
+  "updatedAt": "2026-10-19T15:39:52.594Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -118,10 +118,10 @@
       "name": "Rust",
       "category": "Programming",
       "proficiency": "Beginner",
-      "sortOrder": 9,
+      "sortOrder": 4,
       "id": "609c9713-34e8-4f85-9026-9d90a169b1d6",
       "createdAt": "2026-10-19T15:36:48.325Z",
-      "updatedAt": "2026-10-19T15:36:48.325Z"
+      "updatedAt": "2026-10-19T15:39:52.594Z"
     },
     {
       "name": "Golang",
