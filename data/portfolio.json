@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:52:25.729Z",
+  "updatedAt": "2026-10-19T14:52:32.624Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -111,10 +111,10 @@
       "startDate": "2024-09",
       "endDate": "2024-11",
       "isCurrent": false,
-      "sortOrder": 3,
+      "sortOrder": 1,
       "id": "07b03206-633f-4fc5-a836-4b59b7b54a65",
       "createdAt": "2026-10-19T14:43:21.201Z",
-      "updatedAt": "2026-10-19T14:43:48.014Z"
+      "updatedAt": "2026-10-19T14:52:32.624Z"
     },
     {
       "organization": "SMAS Yadika 5 Joglo",
