@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:36:48.325Z",
+  "updatedAt": "2026-10-19T15:37:09.353Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -122,6 +122,15 @@
       "id": "609c9713-34e8-4f85-9026-9d90a169b1d6",
       "createdAt": "2026-10-19T15:36:48.325Z",
       "updatedAt": "2026-10-19T15:36:48.325Z"
+    },
+    {
+      "name": "Golang",
+      "category": "Programming",
+      "proficiency": "Intermediate",
+      "sortOrder": 10,
+      "id": "daef5268-1ab9-4c00-b5d7-902f9b2c23d4",
+      "createdAt": "2026-10-19T15:37:09.353Z",
+      "updatedAt": "2026-10-19T15:37:09.353Z"
     }
   ],
   "experiences": [
