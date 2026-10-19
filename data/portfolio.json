@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:57:28.768Z",
+  "updatedAt": "2026-10-19T14:58:30.803Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -141,6 +141,18 @@
       "id": "80132626-78a4-470f-b94c-64eaf51fb6b1",
       "createdAt": "2026-10-19T14:57:28.768Z",
       "updatedAt": "2026-10-19T14:57:28.768Z"
+    },
+    {
+      "institution": "SMAN 85 JAKARTA",
+      "degree": "High School",
+      "field": "",
+      "startYear": "",
+      "endYear": "",
+      "description": "",
+      "sortOrder": 0,
+      "id": "5bc947e2-188e-4566-a157-b2ff9ddd29e4",
+      "createdAt": "2026-10-19T14:58:30.803Z",
+      "updatedAt": "2026-10-19T14:58:30.803Z"
     }
   ],
   "organizations": [],
