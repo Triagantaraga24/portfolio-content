@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:34:55.257Z",
+  "updatedAt": "2026-10-19T15:35:01.485Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -26,12 +26,12 @@
     },
     {
       "name": "NodeJS",
-      "category": "Programming",
+      "category": "Web Development",
       "proficiency": "Expert",
       "sortOrder": 1,
       "id": "3fabfd31-88d5-49ce-83ab-7a791c2c8eb1",
       "createdAt": "2026-10-19T14:34:17.561Z",
-      "updatedAt": "2026-10-19T14:34:17.561Z"
+      "updatedAt": "2026-10-19T15:35:01.485Z"
     },
     {
       "name": "PostgreSQL",
