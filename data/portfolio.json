@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:52:44.809Z",
+  "updatedAt": "2026-10-19T15:53:17.215Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -194,6 +194,15 @@
       "id": "8142a66d-fb12-442e-bb11-949065d850a2",
       "createdAt": "2026-10-19T15:52:44.809Z",
       "updatedAt": "2026-10-19T15:52:44.809Z"
+    },
+    {
+      "name": "Google Colab",
+      "category": "Tools",
+      "proficiency": "Expert",
+      "sortOrder": 5,
+      "id": "c2f008e0-7194-481c-810a-56cc78c9a964",
+      "createdAt": "2026-10-19T15:53:17.215Z",
+      "updatedAt": "2026-10-19T15:53:17.215Z"
     }
   ],
   "experiences": [
