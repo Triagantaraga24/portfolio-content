@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:43:48.014Z",
+  "updatedAt": "2026-10-19T14:51:36.234Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -115,6 +115,18 @@
       "id": "07b03206-633f-4fc5-a836-4b59b7b54a65",
       "createdAt": "2026-10-19T14:43:21.201Z",
       "updatedAt": "2026-10-19T14:43:48.014Z"
+    },
+    {
+      "organization": "SMAS Yadika 5 Joglo",
+      "position": "Teacher of Coding and Artificial Intelligence",
+      "description": "Deliver Coding and Artificial Intelligence instruction, oversee laboratory inventory and equipment management, provide IT support to other staff, and coordinate examination operations as a proctor for academic assessments, including Academic Aptitude Test, Computer-Based National Assessment, tryouts, mid-semester summative assessment, and end-of-semester summative assessment and etc.",
+      "startDate": "2026-07",
+      "endDate": "",
+      "isCurrent": true,
+      "sortOrder": 3,
+      "id": "ccd8f5ff-13e3-4a19-97ec-23540493f2eb",
+      "createdAt": "2026-10-19T14:51:36.234Z",
+      "updatedAt": "2026-10-19T14:51:36.234Z"
     }
   ],
   "education": [],
