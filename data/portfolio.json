@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:11:25.785Z",
+  "updatedAt": "2026-10-19T15:13:42.941Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -227,6 +227,17 @@
       "id": "db1bb121-6074-4770-8adc-040db9fdc511",
       "createdAt": "2026-10-19T15:11:25.785Z",
       "updatedAt": "2026-10-19T15:11:25.785Z"
+    },
+    {
+      "title": "Session IV: Jakarta Entrepreneur Hub 2023",
+      "issuer": "Entrepreneurship Bureau of Mercu Buana University",
+      "date": "2023-05",
+      "description": "Served on the Documentation Committee for **“Session IV: Jakarta Entrepreneur Hub 2023,”** capturing key event moments, documenting program activities, managing photo and video documentation, and supporting the preparation of event documentation for reporting and archival purposes.",
+      "credentialUrl": "",
+      "imageUrl": "",
+      "id": "73bbc412-2387-42ae-86ad-7314181a03a7",
+      "createdAt": "2026-10-19T15:13:42.941Z",
+      "updatedAt": "2026-10-19T15:13:42.941Z"
     }
   ],
   "projects": [],
