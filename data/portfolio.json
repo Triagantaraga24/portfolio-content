@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:37:34.190Z",
+  "updatedAt": "2026-10-19T14:37:59.907Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -68,6 +68,15 @@
       "id": "b8634a10-7e05-47b5-8e4a-09708e5694a0",
       "createdAt": "2026-10-19T14:36:59.970Z",
       "updatedAt": "2026-10-19T14:37:34.190Z"
+    },
+    {
+      "name": "Prisma",
+      "category": "ORM",
+      "proficiency": "Intermediate",
+      "sortOrder": 3,
+      "id": "21f1ba62-d4cf-40cf-a26e-abf13c959539",
+      "createdAt": "2026-10-19T14:37:59.907Z",
+      "updatedAt": "2026-10-19T14:37:59.907Z"
     }
   ],
   "experiences": [],
