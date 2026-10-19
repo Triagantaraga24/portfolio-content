@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:38:19.038Z",
+  "updatedAt": "2026-10-19T14:41:16.061Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -79,7 +79,20 @@
       "updatedAt": "2026-10-19T14:37:59.907Z"
     }
   ],
-  "experiences": [],
+  "experiences": [
+    {
+      "organization": "Entrepreneurship Bureau of Mercu Buana University",
+      "position": "Support Staff Internship",
+      "description": "Support daily operations, assist with entrepreneurship events, and collaborate on initiatives to foster campus entrepreneurship.",
+      "startDate": "2022-09",
+      "endDate": "2023-07",
+      "isCurrent": false,
+      "sortOrder": 0,
+      "id": "d9b4419b-9d78-4431-8658-f3ad26da1257",
+      "createdAt": "2026-10-19T14:41:16.061Z",
+      "updatedAt": "2026-10-19T14:41:16.061Z"
+    }
+  ],
   "education": [],
   "organizations": [],
   "achievements": [],
