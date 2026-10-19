@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:14:48.416Z",
+  "updatedAt": "2026-10-19T15:17:05.078Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -249,6 +249,14 @@
       "id": "07a20f53-eaf4-44b8-804b-c44c48944df1",
       "createdAt": "2026-10-19T15:14:48.416Z",
       "updatedAt": "2026-10-19T15:14:48.416Z"
+    },
+    {
+      "platform": "Linkedin",
+      "label": "Linkedin",
+      "url": "https://bit.ly/linkedin-raga-triagantara",
+      "id": "a7d28889-a29e-48af-bdd5-8db8cf01ffb9",
+      "createdAt": "2026-10-19T15:17:05.078Z",
+      "updatedAt": "2026-10-19T15:17:05.078Z"
     }
   ],
   "siteSettings": {
