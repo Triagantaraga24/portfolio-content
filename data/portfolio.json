@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:39:43.698Z",
+  "updatedAt": "2026-10-19T15:39:48.163Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -109,10 +109,10 @@
       "name": "Python",
       "category": "Programming",
       "proficiency": "Expert",
-      "sortOrder": 8,
+      "sortOrder": 4,
       "id": "3aeac384-ed7f-48c9-b59f-cd864ac51c83",
       "createdAt": "2026-10-19T15:36:29.000Z",
-      "updatedAt": "2026-10-19T15:36:29.000Z"
+      "updatedAt": "2026-10-19T15:39:48.163Z"
     },
     {
       "name": "Rust",
