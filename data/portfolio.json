@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:20:28.998Z",
+  "updatedAt": "2026-10-19T15:20:40.909Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -268,11 +268,11 @@
     }
   ],
   "siteSettings": {
-    "defaultLanguage": "en",
+    "defaultLanguage": "id",
     "defaultTheme": "light",
     "siteTitle": "Raga Triagantara — Portfolio",
     "metaDescription": "Portofolio profesional Raga Triagantara — Web Developer.",
     "createdAt": "2026-10-19T15:20:28.998Z",
-    "updatedAt": "2026-10-19T15:20:28.998Z"
+    "updatedAt": "2026-10-19T15:20:40.909Z"
   }
 }
