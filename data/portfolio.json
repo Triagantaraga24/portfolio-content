@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:39:39.208Z",
+  "updatedAt": "2026-10-19T15:39:43.698Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -100,10 +100,10 @@
       "name": "C++",
       "category": "Programming",
       "proficiency": "Advanced",
-      "sortOrder": 7,
+      "sortOrder": 4,
       "id": "f5b81672-6341-4c87-8d31-d5af0bd75e00",
       "createdAt": "2026-10-19T15:35:51.183Z",
-      "updatedAt": "2026-10-19T15:35:51.183Z"
+      "updatedAt": "2026-10-19T15:39:43.698Z"
     },
     {
       "name": "Python",
