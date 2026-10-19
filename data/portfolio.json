@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:35:06.137Z",
+  "updatedAt": "2026-10-19T15:35:51.183Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -95,6 +95,15 @@
       "id": "6cfa101c-169b-4704-9b77-619fedc55547",
       "createdAt": "2026-10-19T15:30:33.989Z",
       "updatedAt": "2026-10-19T15:30:33.989Z"
+    },
+    {
+      "name": "C++",
+      "category": "Programming",
+      "proficiency": "Advanced",
+      "sortOrder": 7,
+      "id": "f5b81672-6341-4c87-8d31-d5af0bd75e00",
+      "createdAt": "2026-10-19T15:35:51.183Z",
+      "updatedAt": "2026-10-19T15:35:51.183Z"
     }
   ],
   "experiences": [
