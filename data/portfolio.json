@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:10:05.111Z",
+  "updatedAt": "2026-10-19T15:11:25.785Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -216,6 +216,17 @@
       "id": "48d4a00a-d785-4727-ac4b-3aa66c47dec0",
       "createdAt": "2026-10-19T15:10:05.111Z",
       "updatedAt": "2026-10-19T15:10:05.111Z"
+    },
+    {
+      "title": "Student Creativity Program (PKM) 2023",
+      "issuer": "Direktorat Pembelajaran dan Kemahasiswaan (Belmawa), Direktorat Jenderal Pendidikan Tinggi, Riset, dan Teknologi (Ditjen Diktiristek) di bawah naungan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek).",
+      "date": "2023-11",
+      "description": "Recipient of the 2023 Student Creativity Program for Scientific Articles (PKM-AI) incentive for the research paper titled “Comparison of Feature Selection Using the Sine Cosine Algorithm and Binary Grey Wolf Optimizer to Optimize the K-Nearest Neighbor Algorithm in Breast Cancer Prediction.”",
+      "credentialUrl": "",
+      "imageUrl": "",
+      "id": "db1bb121-6074-4770-8adc-040db9fdc511",
+      "createdAt": "2026-10-19T15:11:25.785Z",
+      "updatedAt": "2026-10-19T15:11:25.785Z"
     }
   ],
   "projects": [],
