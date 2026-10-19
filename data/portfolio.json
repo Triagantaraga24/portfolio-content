@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:35:51.183Z",
+  "updatedAt": "2026-10-19T15:36:29.000Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -104,6 +104,15 @@
       "id": "f5b81672-6341-4c87-8d31-d5af0bd75e00",
       "createdAt": "2026-10-19T15:35:51.183Z",
       "updatedAt": "2026-10-19T15:35:51.183Z"
+    },
+    {
+      "name": "Python",
+      "category": "Programming",
+      "proficiency": "Expert",
+      "sortOrder": 8,
+      "id": "3aeac384-ed7f-48c9-b59f-cd864ac51c83",
+      "createdAt": "2026-10-19T15:36:29.000Z",
+      "updatedAt": "2026-10-19T15:36:29.000Z"
     }
   ],
   "experiences": [
