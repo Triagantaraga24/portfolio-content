@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:52:39.280Z",
+  "updatedAt": "2026-10-19T14:53:00.433Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -87,10 +87,10 @@
       "startDate": "2022-09",
       "endDate": "2023-07",
       "isCurrent": false,
-      "sortOrder": 0,
+      "sortOrder": 3,
       "id": "d9b4419b-9d78-4431-8658-f3ad26da1257",
       "createdAt": "2026-10-19T14:41:16.061Z",
-      "updatedAt": "2026-10-19T14:41:16.061Z"
+      "updatedAt": "2026-10-19T14:53:00.433Z"
     },
     {
       "organization": "Tanjung Duren Selatan Subdistrict",
