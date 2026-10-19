@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:37:59.907Z",
+  "updatedAt": "2026-10-19T14:38:08.125Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -37,10 +37,10 @@
       "name": "PostgreSQL",
       "category": "Database",
       "proficiency": "Expert",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "id": "c694a8c6-0b31-449d-bc48-36a9dab094bc",
       "createdAt": "2026-10-19T14:35:13.304Z",
-      "updatedAt": "2026-10-19T14:37:23.433Z"
+      "updatedAt": "2026-10-19T14:38:08.125Z"
     },
     {
       "name": "MongoDB",
