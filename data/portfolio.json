@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:17:12.836Z",
+  "updatedAt": "2026-10-19T15:20:11.623Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -257,6 +257,14 @@
       "id": "a7d28889-a29e-48af-bdd5-8db8cf01ffb9",
       "createdAt": "2026-10-19T15:17:05.078Z",
       "updatedAt": "2026-10-19T15:17:05.078Z"
+    },
+    {
+      "platform": "Instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/trgntrg24_/",
+      "id": "8b3eec0f-1c15-4403-92d9-e0d3ccc3b320",
+      "createdAt": "2026-10-19T15:20:11.623Z",
+      "updatedAt": "2026-10-19T15:20:11.623Z"
     }
   ],
   "siteSettings": {
