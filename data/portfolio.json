@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:52:16.815Z",
+  "updatedAt": "2026-10-19T15:52:44.809Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -185,6 +185,15 @@
       "id": "8a0a31e4-c78a-4aaf-a857-8c61f200536c",
       "createdAt": "2026-10-19T15:52:16.815Z",
       "updatedAt": "2026-10-19T15:52:16.815Z"
+    },
+    {
+      "name": "Figma",
+      "category": "Tools",
+      "proficiency": "Intermediate",
+      "sortOrder": 5,
+      "id": "8142a66d-fb12-442e-bb11-949065d850a2",
+      "createdAt": "2026-10-19T15:52:44.809Z",
+      "updatedAt": "2026-10-19T15:52:44.809Z"
     }
   ],
   "experiences": [
