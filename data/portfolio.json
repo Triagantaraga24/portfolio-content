@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:46:45.713Z",
+  "updatedAt": "2026-10-19T15:47:04.217Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -242,13 +242,13 @@
       "institution": "SDN Meruya Selatan 03 Pagi",
       "degree": "Elementary School",
       "field": "General",
-      "startYear": "2009",
-      "endYear": "2015",
+      "startYear": "2011",
+      "endYear": "2016",
       "description": "",
       "sortOrder": 3,
       "id": "9ceb2041-f8cb-4f7c-a624-802c5e0756e2",
       "createdAt": "2026-10-19T15:02:34.923Z",
-      "updatedAt": "2026-10-19T15:03:09.811Z"
+      "updatedAt": "2026-10-19T15:47:04.217Z"
     }
   ],
   "organizations": [
