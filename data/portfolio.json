@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:53:37.920Z",
+  "updatedAt": "2026-10-19T14:57:28.768Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -129,7 +129,20 @@
       "updatedAt": "2026-10-19T14:52:25.729Z"
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "institution": "Mercu Buana University",
+      "degree": "Higher Education Institutions",
+      "field": "Informathics Engineering",
+      "startYear": "2021",
+      "endYear": "2025",
+      "description": "Research Title: “Implementation of Hybrid GWO-SCA with Support Vector Machine and K-Nearest Neighbor for Air Pollution Index Classification in DKI Jakarta Province”\n\n- GPA: 3.76/4.00\n- Graduation: Completed undergraduate studies in 7 semesters (3.5 years)",
+      "sortOrder": 0,
+      "id": "80132626-78a4-470f-b94c-64eaf51fb6b1",
+      "createdAt": "2026-10-19T14:57:28.768Z",
+      "updatedAt": "2026-10-19T14:57:28.768Z"
+    }
+  ],
   "organizations": [],
   "achievements": [],
   "projects": [],
