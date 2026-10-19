@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-19T08:34:48.420Z",
+  "profile": {
+    "name": "Raga Triagantara",
+    "title": "Web Developer",
+    "summary": "",
+    "location": "Tangerang Selatan, Indonesia",
+    "email": "ragatriagantara@gmail.com",
+    "phone": "+62-822-1893-0675",
+    "photoUrl": "",
+    "cvIdUrl": "",
+    "cvEnUrl": "",
+    "createdAt": "2026-10-19T08:34:48.420Z",
+    "updatedAt": "2026-10-19T08:34:48.420Z"
+  },
+  "skills": [],
+  "experiences": [],
+  "education": [],
+  "organizations": [],
+  "achievements": [],
+  "projects": [],
+  "socialLinks": [],
+  "siteSettings": {
+    "defaultLanguage": "id",
+    "defaultTheme": "light",
+    "siteTitle": "Raga Triagantara — Portfolio",
+    "metaDescription": "Portofolio profesional Raga Triagantara — Web Developer."
+  }
+}
