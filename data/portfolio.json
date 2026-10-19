@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T14:42:26.487Z",
+  "updatedAt": "2026-10-19T14:43:21.201Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -103,6 +103,18 @@
       "id": "2587a3e2-dbf5-464d-bc6b-96584d075e32",
       "createdAt": "2026-10-19T14:42:26.487Z",
       "updatedAt": "2026-10-19T14:42:26.487Z"
+    },
+    {
+      "organization": "Devasana Nirmata Isvara",
+      "position": "Freelance Web Development",
+      "description": "",
+      "startDate": "2024-09",
+      "endDate": "2024-11",
+      "isCurrent": false,
+      "sortOrder": 3,
+      "id": "07b03206-633f-4fc5-a836-4b59b7b54a65",
+      "createdAt": "2026-10-19T14:43:21.201Z",
+      "updatedAt": "2026-10-19T14:43:21.201Z"
     }
   ],
   "education": [],
