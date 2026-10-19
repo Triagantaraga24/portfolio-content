@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T15:03:09.811Z",
+  "updatedAt": "2026-10-19T15:05:02.230Z",
   "profile": {
     "name": "Raga Triagantara",
     "title": "Web Developer",
@@ -179,7 +179,20 @@
       "updatedAt": "2026-10-19T15:03:09.811Z"
     }
   ],
-  "organizations": [],
+  "organizations": [
+    {
+      "name": "Student Representative Council of the Faculty of Computer Science, Mercu Buana University",
+      "position": "Advocacy Division",
+      "description": "Advocate for student rights and interests, provide legal support, facilitate communication with university administration, and promote student awareness through educational forums and advocacy campaigns.",
+      "startDate": "2023",
+      "endDate": "2024",
+      "isCurrent": false,
+      "sortOrder": 0,
+      "id": "ebfd9f88-255d-4730-b82d-ce18b583a81e",
+      "createdAt": "2026-10-19T15:05:02.230Z",
+      "updatedAt": "2026-10-19T15:05:02.230Z"
+    }
+  ],
   "achievements": [],
   "projects": [],
   "socialLinks": [],
